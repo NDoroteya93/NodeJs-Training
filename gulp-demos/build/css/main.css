@@ -1,0 +1,13 @@
+.main .nav {
+  backgroun-color: #000;
+}
+.main ul {
+  list-style-type: none;
+}
+.main ul li {
+  display: inline-block;
+  border-right: 1px solid #000;
+}
+.main ul li:last-of-type {
+  border-right-color: #f00;
+}

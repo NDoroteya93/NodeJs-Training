@@ -1,0 +1,22 @@
+{
+    "name": "crawlre",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "eslint": "^4.1.1",
+        "isomorphic-fetch": "^2.2.1",
+        "jquery": "^3.2.1",
+        "jsdom": "^11.0.0"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.2.3",
+        "eslint-config-google": "^0.8.0"
+    }
+}
